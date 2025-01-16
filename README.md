@@ -76,7 +76,7 @@ This project provides insights into:
 
 **Clone the repository:**
 
-1. git clone (https://github.com/leidiana233122/Fitness-Equipment-Dataset-Analysis/blob/dcd6adc549a22b86f7eb0bc138468716d7105017/Unique_Fitness_Equipment_Dataset.xlsx)
+1. git clone https://github.com/leidiana233122/Fitness-Equipment-Dataset-Analysis/blob/dcd6adc549a22b86f7eb0bc138468716d7105017/Unique_Fitness_Equipment_Dataset.xlsx)
 2. Open the dataset files and notebooks to explore the analysis.
 
 3. Use the visualizations and insights for decision-making and presentations.
