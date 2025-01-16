@@ -76,7 +76,7 @@ This project provides insights into:
 
 **Clone the repository:**
 
-1. git clone https://github.com/your-repo-name
+1. git clone https://github.com/Unique_Fitness_Equipment_Dataset.xlsx
 
 2. Open the dataset files and notebooks to explore the analysis.
 
